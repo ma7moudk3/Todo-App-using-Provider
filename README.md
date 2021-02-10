@@ -1,11 +1,10 @@
 # todo_statemanagment
 
 A new Flutter project.
-https://user-images.githubusercontent.com/76075722/107513037-54706400-6bb0-11eb-91cb-1bc856e9dc11.jpg
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
+![screen_shot1](https://user-images.githubusercontent.com/76075722/107513037-54706400-6bb0-11eb-91cb-1bc856e9dc11.jpg)
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
