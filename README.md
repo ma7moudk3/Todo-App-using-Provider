@@ -1,15 +1,12 @@
 # ⚡ About Project
 this is a TODO list App using Flutter framework and SQlite DB for local data storage.
+>>
+Some features of the app
+### ✅Add a new Task
+### ✅Delete a Task
+### ✅moving task from incomplete into complete
+
 
 ## ⚡ some Screenshots
-
 <image src="https://user-images.githubusercontent.com/76075722/107513037-54706400-6bb0-11eb-91cb-1bc856e9dc11.jpg" width=350>
 <image src="https://user-images.githubusercontent.com/76075722/107513043-55a19100-6bb0-11eb-878a-62c4b7623c0e.jpg" width=350>
-
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
